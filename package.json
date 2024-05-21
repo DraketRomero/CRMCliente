@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "apollo-link-context": "^1.0.20",
+    "formik": "^2.2.9",
     "next": "12.2.5",
+    "node-fetch": "^3.2.10",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-select": "^5.4.0",
+    "recharts": "^2.1.13",
+    "sweetalert2": "^11.4.29",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "eslint": "8.22.0",
